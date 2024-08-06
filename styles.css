@@ -2,6 +2,11 @@ body {
     color: white;
     background: black;
     margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+}
+
+h1 { 
+    font-size: 40px;
 }
 
 header {
