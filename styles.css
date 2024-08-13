@@ -14,7 +14,7 @@ header {
     color: rgb(42, 122, 228);
 }
 
-.spans {
+span {
   font-size: 8em;
   font-family: impact;
   display: block;
