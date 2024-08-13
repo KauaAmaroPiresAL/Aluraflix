@@ -14,6 +14,22 @@ header {
     color: rgb(42, 122, 228);
 }
 
+.spans {
+  font-size: 8em;
+  font-family: impact;
+  display: block;
+}
+
+.logo {
+  perspective: 1000px;
+  perspective-origin: 50% 0;
+}
+
+.logo span {
+  transform-origin: 0 0;
+  transform: scaleX(80) rotateY(89.5deg);
+}
+
 .chamada {
     background: rgb(184, 156, 213);
     padding-bottom: 80px;
